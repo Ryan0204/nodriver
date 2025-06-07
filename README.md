@@ -231,8 +231,6 @@ complete code example
 -----------------------------
 automating Twitter/X account creation
 
-```python
-
 A more concrete example, which can be found in the ./example/ folder,
 shows a script to create a twitter account
 
